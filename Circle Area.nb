@@ -1,0 +1,99 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2620,         89]
+NotebookOptionsPosition[      1981,         69]
+NotebookOutlinePosition[      2324,         84]
+CellTagsIndexPosition[      2281,         81]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"25", "*", 
+  RowBox[{"(", 
+   RowBox[{
+    RowBox[{
+     FractionBox["3", "2"], "*", 
+     RowBox[{"ArcSin", "[", 
+      FractionBox["4", "5"], "]"}]}], "+", 
+    FractionBox["\[Pi]", "4"], "-", "1"}], ")"}]}]], "Input",
+ CellChangeTimes->{{3.7951717433909297`*^9, 3.795171797026963*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"394b3b3d-b08a-450d-9e9d-ba9379294f97"],
+
+Cell[BoxData[
+ RowBox[{"25", " ", 
+  RowBox[{"(", 
+   RowBox[{
+    RowBox[{"-", "1"}], "+", 
+    FractionBox["\[Pi]", "4"], "+", 
+    RowBox[{
+     FractionBox["3", "2"], " ", 
+     RowBox[{"ArcSin", "[", 
+      FractionBox["4", "5"], "]"}]}]}], ")"}]}]], "Output",
+ CellChangeTimes->{3.7951717988359556`*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"cfb0b328-0e0b-46eb-a969-63d412756d2c"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"N", "[", 
+  RowBox[{"25", " ", 
+   RowBox[{"(", 
+    RowBox[{
+     RowBox[{"-", "1"}], "+", 
+     FractionBox["\[Pi]", "4"], "+", 
+     RowBox[{
+      FractionBox["3", "2"], " ", 
+      RowBox[{"ArcSin", "[", 
+       FractionBox["4", "5"], "]"}]}]}], ")"}]}], "]"}]], "Input",
+ NumberMarks->False,
+ CellLabel->"In[2]:=",ExpressionUUID->"a3105e2e-3bd6-440f-ae35-d178f4b70b46"],
+
+Cell[BoxData["29.408524759996666`"], "Output",
+ CellChangeTimes->{3.795171819429427*^9},
+ CellLabel->"Out[2]=",ExpressionUUID->"dee4b12b-8316-45a9-8d7a-91d884015901"]
+}, Open  ]]
+},
+WindowSize->{759, 553},
+WindowMargins->{{Automatic, 252}, {24, Automatic}},
+FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 390, 10, 45, "Input",ExpressionUUID->"394b3b3d-b08a-450d-9e9d-ba9379294f97"],
+Cell[973, 34, 387, 11, 49, "Output",ExpressionUUID->"cfb0b328-0e0b-46eb-a969-63d412756d2c"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1397, 50, 399, 12, 45, "Input",ExpressionUUID->"a3105e2e-3bd6-440f-ae35-d178f4b70b46"],
+Cell[1799, 64, 166, 2, 65, "Output",ExpressionUUID->"dee4b12b-8316-45a9-8d7a-91d884015901"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
